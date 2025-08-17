@@ -1,0 +1,1 @@
+Project documentation and stakeholder facing artifacts such as memos, design notes or one-pager summaries. This folder can also hold images or visuals used in reports.

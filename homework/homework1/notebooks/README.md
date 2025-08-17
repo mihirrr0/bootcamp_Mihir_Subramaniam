@@ -1,0 +1,1 @@
+Jupyter notebooks for exploratory data analysis (EDA), experiments and prototyping. Numbered or clearly named to track the workflow (e.g., 01_eda.ipynb, 02_modeling.ipynb).

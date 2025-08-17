@@ -1,0 +1,1 @@
+Stores datasets in both raw and processed form. Raw data should be kept intact while cleaned and aggregated data can be saved separately for analysis.
