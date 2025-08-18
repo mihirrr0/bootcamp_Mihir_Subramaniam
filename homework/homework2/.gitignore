@@ -1,0 +1,5 @@
+# command below ignores all files in the .env directory
+.env
+
+#command ignores all the data files in the data directory
+data/
